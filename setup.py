@@ -10,7 +10,7 @@ setup(
     license='MIT',
     packages=['liturgyclient'],
     install_requires=['ruamel.yaml',
-                      'amcp-pylib',
+                      'amcp-pylib>=0.2.2',
                       'wxpython',                    
                       ],
 
